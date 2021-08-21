@@ -3,12 +3,12 @@
 
 | Class | Date    | Topic | Homework |
 |:-----:|:-------:|:------|:---------|
-| 1     | Aug, 24 | [Intro] [Variables] | - |
-| 2     | Aug, 26 | [Data Types] [Print] | - |
+| 1     | Aug, 24 | [Intro] - [Variables] | - |
+| 2     | Aug, 26 | [Data Types] - [Print] | - |
 | 3     | Aug, 31 | [Input] | - |
 | 4     | Sep,  2 | [Functions] | - |
 | 5     | Sep,  7 | [Errors] | - |
-| 6     | Sep,  9 | [Conditionals] [Pseudo Code] | - |
+| 6     | Sep,  9 | [Conditionals] - [Pseudo Code] | - |
 | 7     | Sep, 14 | [Lists] | - |
 | 8     | Sep, 16 | [Loops] | - |
 | 9     | Sep, 21 | [Debugging] | - |
