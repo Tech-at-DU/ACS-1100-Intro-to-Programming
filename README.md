@@ -1,4 +1,15 @@
-# CS10-Intro-to-Programming
+# ACS 1100 Intro to Programming
+
+This class is an introduction to programming. In it you will learn many of the fundamental programming concepts. The goal of this course is to be an introduction to the work of programming and give you the ability to start writing software applications. 
+
+The world of software development is vast. As introduction this class does not cover everything possible in the world software development. Instead the class seeks to provide foundational knowledge that will provide solid ground on which you can build a career as a software developer. 
+
+## Schedule 
+
+**Course dates:** Tuesday, August 24 - Thursday, October 7, 2021
+
+**Class Times:** Tuesday, Thursday at 9:30 AM PST - 12:15 PM PST
+
 [Track] CS 1.0 - Introduction to Programming 
 
 | Class | Date    | Topic | Homework |
