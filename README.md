@@ -14,7 +14,7 @@ The world of software development is vast. As introduction this class does not c
 
 | Class | Date    | Topic | Homework |
 |:-----:|:-------:|:------|:---------|
-| 1     | Aug, 24 | [Intro] - [Print] - [Variables] | - |
+| 1     | Aug, 24 | [Intro] - [Variables] - [Print] | - |
 | 2     | Aug, 26 | [Data Types] | - |
 | 3     | Aug, 31 | [Input] | - |
 | 4     | Sep,  2 | [Functions] | - |
