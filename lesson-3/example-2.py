@@ -1,83 +1,40 @@
+# In this exercise, we will use it to write and run Python code.
+# 
+# Run python3 in the terminal you will see the prompt >>>
+# 
+# You can type python the terminal and run that line of code 
+# each time you hit return. 
+# 
+# Follow the steps below using the terminal!
 
-# Convert the lyrics into string:
+# Welcome to San Francisco!🌉
+# A big city, full of variables.   
 
-# When I find myself in times of trouble, Mother Mary comes to me
-# Speaking words of wisdom, let it be
-# And in my hour of darkness she is standing right in front of me
-# Speaking words of wisdom, let it be
-# Let it be, let it be, let it be, let it be
-# Whisper words of wisdom, let it be
+# 1. Assign the value 94102 to a variable named zip.
+zip = 94102
 
-# Each line should be assigned to its own variable! 
-# Look for patterns and use different string operators
+# 2. Check the type of zip. Write type(zip) and hit enter.
+type(zip)
 
-# Example:
-# + - concatenation (adding two strings together)
-# * - generate multiple copies of the string
+# 3. Assign the value "San Francisco" to a variable named city.
+city = "San Francisco"
 
-be = "let it be"
-wisdom = "words of wisdom"
+# 4. Check the type of city. Write type(city) and hit enter. 
+type(city)
 
-line_1 = "When I find myself in times of trouble, Mother Mary comes to me"
+# Did you know that the average cost of coffee in SF is $3.60?
 
-line_2 = "Speaking " + wisdom + ', ' + be
+# 5. Assign the value 3.60 to a variable named avg_cost
+avg_cost = 3.60
 
-line_3 = "And in my hour of darkness she is standing right in front of me"
+# 6. Check the type of avg_cost. Write type(avg_cost) and hit enter.
+type(avg_cost)
 
-line_4 = line_2
+# The SF coffee is $0.25 more than the national average.
 
-line_5 = be * 4
+# 7. Assign the value True to a variable named overpriced
+overpriced = True
 
-
-# Whisper words of wisdom, let it be
-
-line_6 = "Whisper " + wisdom + ", " + be
-
-# Challenge! Put the song together and print 
-# the lyrics to the console:
-
-
-
-# DRY is an accronym for Don't Repeat Yourself! 
-# Its a best practice for computer programmers! 
-# Notice the code above does it's best to avoid
-# repeating values and code that has already 
-# been written! 
-
-# Below are the lyrics to Smokestack Lightnin' by Howlin Wolf
-# Using the example above how could you break the lines below 
-# into variables. Use the + and * operators to 
-
-# There is a lot of repetition in the lyrics below
-# your goals is to use code to avoid the repeating
-# code that you have already written! 
-
-"""
-Ah oh, smokestack lightnin'
-Shinin' just like gold
-Why don't ya hear me cryin'?
-A whoo hoo, whoo hoo, whoo
-
-Whoa oh tell me, baby
-What's the matter with you?
-Why don't ya hear me cryin'?
-Whoo hoo, whoo hoo, whooo
-
-Whoa oh tell me, baby
-Where did ya, stay last night?
-A-why don't ya hear me cryin'?
-Whoo hoo, whoo hoo, whooo
-
-Whoa oh, stop your train
-Let her go for a ride
-Why don't ya hear me cryin'?
-Whoo hoo, whoo hoo, whooo
-"""
-
-# Challenge: Define some variables for each line of the lyrics above
-
-
-# Challenge: Print the song below
-
-
+# 8. Check the type of overpriced. Write type(overpriced) and hit enter.
+type(overpriced)
 
