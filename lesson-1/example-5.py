@@ -13,3 +13,4 @@ my_score = high_score
 
 # Draw a variable table to visualize how these variables' values are changing!
 # Use a block comment.
+
