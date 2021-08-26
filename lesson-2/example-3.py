@@ -1,29 +1,51 @@
-# Expressions
+# Types
 
-# Challenges: Write an expression to solve the problems below
+# Challenge: Guess the type for each of these and define a value
+# write the type as a comment then define a value. 
+# Then test your work
+# For example
+height_in_inches = 72
+print("int")
+print(type(height_in_inches))
 
-# Area of a rectangle with a width of 12 and a length of 23. Area is length * width
-rectangle_area = 
+# Your age: type and value
+age = 
 print("")
-print(type(rectangle_area))
+print(type(age))
 
-# Seconds in a day? There 60 secs in a min and 60 mins in an hour and 24 hours in a day
-day_in_seconds = 
+# Your shoe size: Type and value
+shoe_size = 
 print("")
-print(type(day_in_seconds))
+print(type(shoe_size))
 
-# Area of a circle with a diameter of 10. Are of a circle is 3.14 * radius * radius 
-circle_area = 
+# You birthday: Type and value
+birthyear = 
 print("")
-print(type(circle_area))
+print(type(birthyear))
 
-# Convert temperature of 72F to C. Formula is: (f - 32) * 5 / 9
-temp_c = 
+# Is it spicy: Type and value
+is_spicy = 
 print("")
-print(type(temp_c))
+print(type(is_spicy))
 
-# Calculate total cost. Donuts are 0.99 each, specialty donuts are 1.29 each 
-# you need 12 regular donuts and 6 specialty donuts
-total_cost = 
+# Servings per container: Type and value
+servings = 
 print("")
-print(type(total_cost))
+print(type(servings))
+
+# Percent of fuel remaining
+fuel_remaining = 
+print("")
+print(type(fuel_remaining))
+
+# Favorite color
+fav_color = 
+print("")
+print(type(fav_color))
+
+# URL
+some_url = 
+print("")
+print(type(some_url))
+
+

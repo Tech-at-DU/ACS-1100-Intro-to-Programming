@@ -1,40 +1,29 @@
-# In this exercise, we will use it to write and run Python code.
-# 
-# Run python3 in the terminal you will see the prompt >>>
-# 
-# You can type python the terminal and run that line of code 
-# each time you hit return. 
-# 
-# Follow the steps below using the terminal!
+# Expressions
 
-# Welcome to San Francisco!🌉
-# A big city, full of variables.   
+# Challenges: Write an expression to solve the problems below
 
-# 1. Assign the value 94102 to a variable named zip.
-zip = 94102
+# Area of a rectangle with a width of 12 and a length of 23. Area is length * width
+rectangle_area = 
+print("")
+print(type(rectangle_area))
 
-# 2. Check the type of zip. Write type(zip) and hit enter.
-type(zip)
+# Seconds in a day? There 60 secs in a min and 60 mins in an hour and 24 hours in a day
+day_in_seconds = 
+print("")
+print(type(day_in_seconds))
 
-# 3. Assign the value "San Francisco" to a variable named city.
-city = "San Francisco"
+# Area of a circle with a diameter of 10. Are of a circle is 3.14 * radius * radius 
+circle_area = 
+print("")
+print(type(circle_area))
 
-# 4. Check the type of city. Write type(city) and hit enter. 
-type(city)
+# Convert temperature of 72F to C. Formula is: (f - 32) * 5 / 9
+temp_c = 
+print("")
+print(type(temp_c))
 
-# Did you know that the average cost of coffee in SF is $3.60?
-
-# 5. Assign the value 3.60 to a variable named avg_cost
-avg_cost = 3.60
-
-# 6. Check the type of avg_cost. Write type(avg_cost) and hit enter.
-type(avg_cost)
-
-# The SF coffee is $0.25 more than the national average.
-
-# 7. Assign the value True to a variable named overpriced
-overpriced = True
-
-# 8. Check the type of overpriced. Write type(overpriced) and hit enter.
-type(overpriced)
-
+# Calculate total cost. Donuts are 0.99 each, specialty donuts are 1.29 each 
+# you need 12 regular donuts and 6 specialty donuts
+total_cost = 
+print("")
+print(type(total_cost))
