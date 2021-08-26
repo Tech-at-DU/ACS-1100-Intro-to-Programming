@@ -12,8 +12,9 @@ cart_total = item_1 + item_2 + item_3
 # their total. Example: Joi's cart balance is 24.31
 # print( f"{username}'s cart balance is {cart_total}")
 
+
 # Task 2️⃣ :
-# The minimum for free shipping is $25 
+# The minimum for free shipping is $25
 # Using f-strings, print a message to tell the user
 # how much they need to add to their cart total to qualify for free shipping
 

@@ -15,19 +15,19 @@ The world of software development is vast. As introduction this class does not c
 | Class | Date    | Topic | Homework |
 |:-----:|:-------:|:------|:---------|
 | 1     | Aug, 24 | [Intro] - [Variables]  | - |
-| 2     | Aug, 26 | [Data Types] - [Print] | - |
-| 3     | Aug, 31 | [Input] | - |
-| 4     | Sep,  2 | [Functions] | - |
-| 5     | Sep,  7 | [Errors] | - |
-| 6     | Sep,  9 | [Conditionals] - [Pseudo Code] | - |
-| 7     | Sep, 14 | [Lists] | - |
-| 8     | Sep, 16 | [Loops] | - |
-| 9     | Sep, 21 | [Debugging] | - |
-| 10    | Sep, 23 | [File I/O] | - |
-| 11    | Sep, 28 | [Dictionaries] | - |
-| 12    | Sep, 30 | [Code Quality] | - |
-| 13    | Oct,  5 | [Problem Solving] | - |
-| 14    | Oct,  7 | [Dictionaries] | - |
+| 2     | Aug, 26 | [Data Types] - [Print] - [Input] | - |
+| 3     | Aug, 31 | [Functions] | - |
+| 4     | Sep,  2 | [Errors] | - |
+| 5     | Sep,  7 | [Conditionals] - [Pseudo Code] | - |
+| 6     | Sep,  9 | [Lists] | - |
+| 7     | Sep, 14 | [Loops] | - |
+| 8     | Sep, 16 | [Debugging] | - |
+| 9     | Sep, 21 | [File I/O] | - |
+| 10    | Sep, 23 | [Dictionaries] | - |
+| 11    | Sep, 28 | [Code Quality] | - |
+| 12    | Sep, 30 | [Problem Solving] | - |
+| 13    | Oct,  5 | [Dictionaries] | - |
+| 14    | Oct,  7 | Final Assessment | - |
 
 [Intro]: https://docs.google.com/presentation/d/1xLM4fzLBnVEkX3qmBH6L04q4PMbchVrA3P5LSOFHgR4/edit?usp=sharing
 [Variables]: https://docs.google.com/presentation/d/1SQl5_sNbJsP1tjFtpTUcXhZ9pVsu1QDctlA1TsMx6QE/edit?usp=sharing

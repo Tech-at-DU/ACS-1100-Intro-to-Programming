@@ -1,1 +1,0 @@
-# Challenge: print an integer, a float, a string, an expression, and the value of a variable

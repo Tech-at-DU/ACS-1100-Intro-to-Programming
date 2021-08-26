@@ -66,12 +66,12 @@ Whoo hoo, whoo hoo, whooo
 Whoa oh tell me, baby
 Where did ya, stay last night?
 A-why don't ya hear me cryin'?
-Whoo hoo, whoo hoo, whooo
+Whoo hoo, whoo hoo, whoo
 
 Whoa oh, stop your train
 Let her go for a ride
 Why don't ya hear me cryin'?
-Whoo hoo, whoo hoo, whooo
+Whoo hoo, whoo hoo, whoo
 """
 
 # Challenge: Define some variables for each line of the lyrics above
@@ -81,3 +81,8 @@ Whoo hoo, whoo hoo, whooo
 
 
 
+
+# Stretch goal: After solving the above challenge identify any 
+# repeated lyrics and use a variable
+
+# Stretch Challenge: As above but use your own lyrics
