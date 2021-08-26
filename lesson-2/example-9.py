@@ -1,11 +1,11 @@
-print("Welcome to the snowboard length calculator!")
-height = input("Please enter your height in inches: ")
+# Challenge: Get the user's name and favorite snack and print it. For 
+# example if the user enters Nova and graham crackers, "Nova's favorite snack is graham crackers!" would be printed.
 
-height = float(height) # Converts str to float! 
-
-# Input sees the user input as a string
-# Before we can calculate it, we need to convert it to the correct
-# data type... in this case, height should be an float
+#get name
 
 
-print(f"The length of the snowboard you need is: {height * 2.54 * 0.88} cm")
+#get favorite snack
+
+
+#print name and favorite snack
+

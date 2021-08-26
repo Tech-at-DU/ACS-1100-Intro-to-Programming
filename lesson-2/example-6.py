@@ -1,31 +1,88 @@
-#Scenario: You own an online store and want to send important messaging to the shopper.
 
-# Shopping cart currently has 3 items that cost:
-username = 'Joi'
-item_1 = 2      # $2
-item_2 = 10     # $10
-item_3 = 11     # $11
-cart_total = item_1 + item_2 + item_3
+# Convert the lyrics into string:
 
-# Task 1️⃣ :
-# Use f-strings , print a message to tell the user
-# their total. Example: Joi's cart balance is 24.31
-# print( f"{username}'s cart balance is {cart_total}")
+# When I find myself in times of trouble, Mother Mary comes to me
+# Speaking words of wisdom, let it be
+# And in my hour of darkness she is standing right in front of me
+# Speaking words of wisdom, let it be
+# Let it be, let it be, let it be, let it be
+# Whisper words of wisdom, let it be
+
+# Each line should be assigned to its own variable! 
+# Look for patterns and use different string operators
+
+# Example:
+# + - concatenation (adding two strings together)
+# * - generate multiple copies of the string
+
+be = "let it be"
+wisdom = "words of wisdom"
+
+line_1 = "When I find myself in times of trouble, Mother Mary comes to me"
+
+line_2 = "Speaking " + wisdom + ', ' + be
+
+line_3 = "And in my hour of darkness she is standing right in front of me"
+
+line_4 = line_2
+
+line_5 = be * 4
 
 
-# Task 2️⃣ :
-# The minimum for free shipping is $25
-# Using f-strings, print a message to tell the user
-# how much they need to add to their cart total to qualify for free shipping
+# Whisper words of wisdom, let it be
 
-# Example: "Joi, you are $2 away from free shipping!"
+line_6 = "Whisper " + wisdom + ", " + be
 
-# print(f"{username}, you are ${25 - cart_total} away from free shipping!")
+# Challenge! Put the song together and print 
+# the lyrics to the console:
 
-"Joi's total is $22"
-"Abba's total is $1200"
 
-username = 'Abba'
-total = 1000000000000
 
-print(f"{username}'s total is ${total}")
+# DRY is an accronym for Don't Repeat Yourself! 
+# Its a best practice for computer programmers! 
+# Notice the code above does it's best to avoid
+# repeating values and code that has already 
+# been written! 
+
+# Below are the lyrics to Smokestack Lightnin' by Howlin Wolf
+# Using the example above how could you break the lines below 
+# into variables. Use the + and * operators to 
+
+# There is a lot of repetition in the lyrics below
+# your goals is to use code to avoid the repeating
+# code that you have already written! 
+
+"""
+Ah oh, smokestack lightnin'
+Shinin' just like gold
+Why don't ya hear me cryin'?
+A whoo hoo, whoo hoo, whoo
+
+Whoa oh tell me, baby
+What's the matter with you?
+Why don't ya hear me cryin'?
+Whoo hoo, whoo hoo, whooo
+
+Whoa oh tell me, baby
+Where did ya, stay last night?
+A-why don't ya hear me cryin'?
+Whoo hoo, whoo hoo, whoo
+
+Whoa oh, stop your train
+Let her go for a ride
+Why don't ya hear me cryin'?
+Whoo hoo, whoo hoo, whoo
+"""
+
+# Challenge: Define some variables for each line of the lyrics above
+
+
+# Challenge: Print the song below
+
+
+
+
+# Stretch goal: After solving the above challenge identify any 
+# repeated lyrics and use a variable
+
+# Stretch Challenge: As above but use your own lyrics

@@ -1,88 +1,29 @@
+# Expressions
 
-# Convert the lyrics into string:
+# Challenges: Write an expression to solve the problems below
 
-# When I find myself in times of trouble, Mother Mary comes to me
-# Speaking words of wisdom, let it be
-# And in my hour of darkness she is standing right in front of me
-# Speaking words of wisdom, let it be
-# Let it be, let it be, let it be, let it be
-# Whisper words of wisdom, let it be
+# Area of a rectangle with a width of 12 and a length of 23. Area is length * width
+rectangle_area = 
+print("")
+print(type(rectangle_area))
 
-# Each line should be assigned to its own variable! 
-# Look for patterns and use different string operators
+# Seconds in a day? There 60 secs in a min and 60 mins in an hour and 24 hours in a day
+day_in_seconds = 
+print("")
+print(type(day_in_seconds))
 
-# Example:
-# + - concatenation (adding two strings together)
-# * - generate multiple copies of the string
+# Area of a circle with a diameter of 10. Are of a circle is 3.14 * radius * radius 
+circle_area = 
+print("")
+print(type(circle_area))
 
-be = "let it be"
-wisdom = "words of wisdom"
+# Convert temperature of 72F to C. Formula is: (f - 32) * 5 / 9
+temp_c = 
+print("")
+print(type(temp_c))
 
-line_1 = "When I find myself in times of trouble, Mother Mary comes to me"
-
-line_2 = "Speaking " + wisdom + ', ' + be
-
-line_3 = "And in my hour of darkness she is standing right in front of me"
-
-line_4 = line_2
-
-line_5 = be * 4
-
-
-# Whisper words of wisdom, let it be
-
-line_6 = "Whisper " + wisdom + ", " + be
-
-# Challenge! Put the song together and print 
-# the lyrics to the console:
-
-
-
-# DRY is an accronym for Don't Repeat Yourself! 
-# Its a best practice for computer programmers! 
-# Notice the code above does it's best to avoid
-# repeating values and code that has already 
-# been written! 
-
-# Below are the lyrics to Smokestack Lightnin' by Howlin Wolf
-# Using the example above how could you break the lines below 
-# into variables. Use the + and * operators to 
-
-# There is a lot of repetition in the lyrics below
-# your goals is to use code to avoid the repeating
-# code that you have already written! 
-
-"""
-Ah oh, smokestack lightnin'
-Shinin' just like gold
-Why don't ya hear me cryin'?
-A whoo hoo, whoo hoo, whoo
-
-Whoa oh tell me, baby
-What's the matter with you?
-Why don't ya hear me cryin'?
-Whoo hoo, whoo hoo, whooo
-
-Whoa oh tell me, baby
-Where did ya, stay last night?
-A-why don't ya hear me cryin'?
-Whoo hoo, whoo hoo, whoo
-
-Whoa oh, stop your train
-Let her go for a ride
-Why don't ya hear me cryin'?
-Whoo hoo, whoo hoo, whoo
-"""
-
-# Challenge: Define some variables for each line of the lyrics above
-
-
-# Challenge: Print the song below
-
-
-
-
-# Stretch goal: After solving the above challenge identify any 
-# repeated lyrics and use a variable
-
-# Stretch Challenge: As above but use your own lyrics
+# Calculate total cost. Donuts are 0.99 each, specialty donuts are 1.29 each 
+# you need 12 regular donuts and 6 specialty donuts
+total_cost = 
+print("")
+print(type(total_cost))
