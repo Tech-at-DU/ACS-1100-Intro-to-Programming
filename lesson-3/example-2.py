@@ -21,11 +21,10 @@
 #Jess hello! would be displayed
 
 
-#TODO: Take a look at your custom calculator. Ask youself where you
-#can add a function? You should be able to add a function that performs
+#TODO: Take a look at your custom calculator. Ask yourself where you
+#can add a function? 
+#
+# You should be able to add a function that performs
 #the custom calculation. Make this change. 
-
-
-#TODO: 
 
 
