@@ -30,7 +30,7 @@ The world of software development is vast. As introduction this class does not c
 | 14    | Oct,  7 | Final Assessment | - |
 
 <!-- Assignments -->
-[Setup GitHub]: stup-github.md
+[Setup GitHub]: setup-github.md
 [Python CLI Games]: https://github.com/Tech-at-DU/Python-CLI-Games-Tutorial
 
 <!-- Lessons -->
