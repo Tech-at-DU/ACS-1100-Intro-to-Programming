@@ -1,10 +1,11 @@
 # Here is the double function
 
 def double(number):
+	# double number and 
 	return 0
 
-a = double(100)
-b = double(25)
+first_number = double(100)
+second_number = double(25)
 
 print(a) # 200
 print(b) # 50
@@ -15,11 +16,6 @@ def cuber(a, b, c):
 	return 0
 
 cuber(3, 3, 3) # Should return 27
-
-#TODO: Use double and cuber together: 
-
-# c = double 5
-# d = cuber
 
 #TODO: Write a function to generate product
 
