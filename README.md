@@ -16,8 +16,8 @@ The world of software development is vast. As introduction this class does not c
 |:-----:|:-------:|:------|:---------|
 | 1     | Aug, 24 | [Intro] - [Variables]  | - |
 | 2     | Aug, 26 | [Print] - [Data Types] - [Input] | madlib.py - custom-calc.py |
-| 3     | Aug, 31 | [Functions] | - |
-| 4     | Sep,  2 | [Errors] | - |
+| 3     | Aug, 31 | [Functions] | [Setup GitHub] |
+| 4     | Sep,  2 | [Errors] | [Python CLI Games] |
 | 5     | Sep,  7 | [Conditionals] - [Pseudo Code] | - |
 | 6     | Sep,  9 | [Lists] | - |
 | 7     | Sep, 14 | [Loops] | - |
@@ -28,6 +28,9 @@ The world of software development is vast. As introduction this class does not c
 | 12    | Sep, 30 | [Problem Solving] | - |
 | 13    | Oct,  5 | [Dictionaries] | - |
 | 14    | Oct,  7 | Final Assessment | - |
+
+[Setup GitHub]: stup-github.md
+[Python CLI Games]: https://github.com/Tech-at-DU/Python-CLI-Games-Tutorial
 
 [Intro]: https://docs.google.com/presentation/d/1xLM4fzLBnVEkX3qmBH6L04q4PMbchVrA3P5LSOFHgR4/edit?usp=sharing
 [Variables]: https://docs.google.com/presentation/d/1SQl5_sNbJsP1tjFtpTUcXhZ9pVsu1QDctlA1TsMx6QE/edit?usp=sharing
