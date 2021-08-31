@@ -19,3 +19,7 @@ Setup GitHub CLI:
 
 - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+
+Setup GitHub SSH: 
+
+- https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
