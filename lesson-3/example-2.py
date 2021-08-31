@@ -25,6 +25,12 @@
 #can add a function? 
 #
 # You should be able to add a function that performs
-#the custom calculation. Make this change. 
+# the custom calculation.
+# 
+# It's also possible that your code could be broken into more than one function
+# Think carefully about each of the functions you might create. They should each 
+# be responsible for one task or operation. 
+# 
+# Make these changes. 
 
 

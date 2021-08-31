@@ -29,9 +29,11 @@ The world of software development is vast. As introduction this class does not c
 | 13    | Oct,  5 | [Dictionaries] | - |
 | 14    | Oct,  7 | Final Assessment | - |
 
+<!-- Assignments -->
 [Setup GitHub]: stup-github.md
 [Python CLI Games]: https://github.com/Tech-at-DU/Python-CLI-Games-Tutorial
 
+<!-- Lessons -->
 [Intro]: https://docs.google.com/presentation/d/1xLM4fzLBnVEkX3qmBH6L04q4PMbchVrA3P5LSOFHgR4/edit?usp=sharing
 [Variables]: https://docs.google.com/presentation/d/1SQl5_sNbJsP1tjFtpTUcXhZ9pVsu1QDctlA1TsMx6QE/edit?usp=sharing
 [Data Types]: https://docs.google.com/presentation/d/1hH4O0HFx9bICiZ0EZl9WszhruD9aoiksVZukZ37sOnU/edit?usp=sharing
