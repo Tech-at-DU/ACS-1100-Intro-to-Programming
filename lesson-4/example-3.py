@@ -1,10 +1,13 @@
-# We're writing a program that adds two numbers together. 
-# Test this and solve any problems you find. 
+# Runtime Errors occur during run time.
+# Run the code with the following inputs to see an example of a runtime error. 
 
-prin("Welcome to the addition helper)
-number1 = input("Please enter the first number:" )
-number2 = input("Please enter the second number: ")
+# 🚨 To see error, write your age in words instead of integers.
 
-print("The result is: ", number1 + number_2)
+name = input('What is your name? ')
+month = input('What month were you born? ')
+day = input('What day were you born? ')
+age = input('How old did you turn this year? ')
 
+# Prints the age user turns in 2021
+print(f"On {month} {day}, 2021, {name} will be {int(age)+1} years old!")
 

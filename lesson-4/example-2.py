@@ -1,13 +1,12 @@
-# Runtime Errors occur during run time.
-# Run the code with the following inputs to see an example of a runtime error. 
+# Logical errors do not throw errors. They simply just dont 
+# return the result we were expecting.
 
-# 🚨 To see error, write your age in words instead of integers.
+# Solve the problem below. Why is the code below not displaying
+# the a message that corresponds to the input?
 
-name = input('What is your name? ')
-month = input('What month were you born? ')
-day = input('What day were you born?')
-age = input('How old did you turn this year? ')
+temperature = int(input("What is the temp in Fahrenheit? "))
 
-# Prints the age user turns in 2021
-print(f"On {month} {day}, 2021, {name} will be {int(age)+1} years old!")
-
+if temperature < 75:
+  print("Whew. It is hot!")
+else:
+  print("Brrrr. It's cold.")
