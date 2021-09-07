@@ -18,7 +18,7 @@ The world of software development is vast. As introduction this class does not c
 | 2     | Aug, 26 | [Print] - [Data Types] - [Input] | madlib.py - custom-calc.py |
 | 3     | Aug, 31 | [Functions] | [Setup GitHub] |
 | 4     | Sep,  2 | [Errors] | [Python CLI Games] |
-| 5     | Sep,  7 | [Conditionals] - [Pseudo Code] | - |
+| 5     | Sep,  7 | [Conditionals] - [Pseudo Code] | Pseudo Code problems on Gradescope |
 | 6     | Sep,  9 | [Lists] | - |
 | 7     | Sep, 14 | [Loops] | - |
 | 8     | Sep, 16 | [Debugging] | - |
