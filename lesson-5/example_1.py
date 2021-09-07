@@ -1,4 +1,4 @@
-# this is a boolean expression "is 5 < 6?" will evaluate and 
+# This is a boolean expression "is 5 < 6?" will evaluate and 
 # then the resulting boolean data type will be stored in result 
 
 # result = 5 < 6
@@ -55,9 +55,3 @@ print(5 > 10) # print the expression
 # 1 + 2 * 3 > 3 * 2 + 1
 
  
-
-def aGreaterThanB(a, b): 
-	 return a > b
-
-def aEqualToB(a, b):
-	return a == b
