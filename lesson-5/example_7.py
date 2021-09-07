@@ -5,7 +5,7 @@ import random
 print(random.randint(1, 6)) # print random number from 1 to 6
 
 # TODO: Print a random number between 0 and 1
-print()
+
 
 # TODO: Generate a random number between 0 and 1 
 # If the number is 0 print "Heads" if not print "Tails"
@@ -21,10 +21,7 @@ print()
 # the results 
 
 def roll3d6(): 
-	a = random.randint(1, 6)
-	b = random.randint(1, 6)
-	c = random.randint(1, 6)
-	return a + b + c
+	return 0
 
 # TODO: Characters have attributes of strength
 # intelligence and dexterity each has a value of 3 - 18
@@ -32,8 +29,7 @@ def roll3d6():
 # Use your function to generate the values. 
 
 str = roll3d6()
-int = roll3d6()
-dex = roll3d6()
+# define int and dex here
 
 # TODO: Every character starts with amount of gold pieces
 # gp is equal to 3 - 18 * 10. Write a function that returns 
@@ -42,7 +38,7 @@ dex = roll3d6()
 # It's imortant you use the other function here (DRY!)
 
 def startingGP(): 
-	return roll3d6() * 10
+	return 0 # should return 3d6 * 10
 
 # TODO: Define a variable for gp and assign it a value: 
 
@@ -57,8 +53,3 @@ gp = startingGP()
 
 
 
-
-
-
-def hello():
-	print("Hello World")

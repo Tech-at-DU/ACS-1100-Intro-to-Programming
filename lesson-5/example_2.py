@@ -42,7 +42,10 @@ print()
 
 
 
+# Use not the operator 
 
+yes = True
+n = not yes
 
 
 
