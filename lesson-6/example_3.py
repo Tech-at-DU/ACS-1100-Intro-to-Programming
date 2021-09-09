@@ -1,30 +1,51 @@
 '''
-You are opening a Kitty Kennel! 🐈
+Deep down inside you're a cat person! 🐈
+Cat people collect cats and obsess over 
+cat details! 
 '''
-
-
-# TODO: Create a list called cat_names that will store the names of four cats.
 
 cat_names = []
 
-
-# TODO: Time to get to work! Print out the name of the 1st cat in the list 
-# called cat_names.
+# TODO: Print the cat list! 
 
 
-
-# TODO: Your kennel is popular! A new customer with a cat named "Tigi" 
-# wants to join your kennel! Add "Tigi" to the list called cat_names.
-
+# TODO: Print the cat_list after each step 
+# below, you're obsessed remember! 
 
 
-# TODO: Two cats left the kennel. Remove the first two cats from the 
-# list cat_names using slicing
+# TODO: You just got your first cat: "Bert"
+# Add it to the cat_names list with append!
 
 
+# You just got two more cats! Someone 
+# put them in an array and left them at your
+# house: ["Clawdia", "Eunice"]
+# TODO: Extend at_names with the new cats in the 
+# list above. Use cat_names.extend()
 
-# TODO: A cat lady wants her family of cats to join your kennel. Add 
-# the following list of cats to cat_names using extend() method: 
 
-new_cats = ["Clawdia", "Jennifur", "Furby"]
+# TODO: You found a cat walking home yesterday
+# It's name is "Alfie". You always keep your 
+# cats organized in alphabetical, you're
+# obsessed remember? Use cat_names.prepend()
+
+
+# TODO: You just found another cat named "Duff"
+# Put Duff in the cat_list in alphabetical order 
+# use cat_list.insert()
+
+
+# TODO: These Cats are ruining your furniture
+# Give one away. Use cat_list.remove() to 
+# remove "Eunice"
+
+
+# TODO: I think "Alfie" has to go he keeps 
+# horking up fur balls! he should be first in 
+# the list you can use: cat_list.pop()
+
+
+# TODO: Actually you've had a revelation and 
+# decided you're a dog person after all. Clear
+# the cat_list with cat_list.clear()
 
