@@ -19,8 +19,8 @@ The world of software development is vast. As introduction this class does not c
 | 3     | Aug, 31 | [Functions] | [Setup GitHub] |
 | 4     | Sep,  2 | [Errors] | [Python CLI Games] |
 | 5     | Sep,  7 | [Conditionals] - [Pseudo Code] | Pseudo Code problems on Gradescope |
-| 6     | Sep,  9 | [Lists] | [snowman.py](lesson-7/snowman.md) |
-| 7     | Sep, 14 | [Loops] | - |
+| 6     | Sep,  9 | [Lists] | - |
+| 7     | Sep, 14 | [Loops] | [snowman.py](lesson-7/snowman.md) |
 | 8     | Sep, 16 | [Debugging] | - |
 | 9     | Sep, 21 | [File I/O] | - |
 | 10    | Sep, 23 | [Dictionaries] | - |
