@@ -10,4 +10,4 @@ price = 5
 
 
 
-# TODO - Exercise 2: Print even numbers from 0 to 20
+# TODO - Exercise 2: Print ONLY even numbers from 0 to 20

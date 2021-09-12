@@ -11,3 +11,9 @@ while number <= 10:
   
   print(number)
   number += 1
+
+
+# Print the write a while loop that counts to 10 and prints 
+# each number unless the number is divisble by 3 which case 
+# you should print "Fizz"
+

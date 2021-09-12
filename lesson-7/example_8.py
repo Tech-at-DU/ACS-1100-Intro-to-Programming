@@ -9,9 +9,3 @@ Happy Birthday to you!
 
 # Step 1: Prompt the user for their name.
 username = input("What is your name?")
-
-for i in range(4):
-  if i == 2:
-    print(f"Happy Birthday to {username}!")
-  else:
-    print("Happy Birthday to you!")

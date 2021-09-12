@@ -10,3 +10,6 @@ while counter < 100:
   if counter == 25:
     break
 
+
+# Write a for loop that counts backwards from 50 to 
+# 0. 
