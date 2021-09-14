@@ -1,4 +1,5 @@
-# This while loop prints count until 100, but it breaks when the counter reaches 25 
+# This while loop prints count until 100, but it breaks when 
+# the counter reaches 25 
 
 counter = 0
 
@@ -13,3 +14,4 @@ while counter < 100:
 
 # Write a for loop that counts backwards from 50 to 
 # 0. 
+

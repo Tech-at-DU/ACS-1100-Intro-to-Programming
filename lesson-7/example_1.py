@@ -17,14 +17,16 @@ while counter < 100:
 # What should I change the conditional statement to to include 100?
 
 '''
-Example 2: This code reapeatedly prompts the user to enter a number between 1 and 20 until user enters correct input.
+Example 2: This code reapeatedly prompts the user to enter 
+a number between 1 and 20 until user enters correct input.
 
 Note: Comment code above and uncomment code below before running.
 '''
 
 response = int(input("Enter a number between 1 and 20: "))
 
-# The while loop is executed when user enters a number that is not between 1 and 20. 
+# The while loop is executed when user enters a number that is 
+# not between 1 and 20. 
 while response > 20 or response < 1:
   response = int(input("Enter a number between 1 and 20: "))
 

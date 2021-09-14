@@ -14,6 +14,8 @@ while number <= 10:
 
 
 # Print the write a while loop that counts to 10 and prints 
-# each number unless the number is divisble by 3 which case 
+# each number unless the number is divisible by 3 which case 
 # you should print "Fizz"
+
+
 

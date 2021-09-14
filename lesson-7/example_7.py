@@ -1,6 +1,7 @@
-#TODO: Using a for loop, print out each color from the list called colors.
-# colors = ["red", "orange", "green", "blue", "purple"]
-          # [ 0,      1     ,   2   ,    3  ]
+#TODO: Using a for loop, print out each color from the list 
+# called colors.
+colors = ["red", "orange", "green", "blue", "purple"]
+       # [    0,        1,        2,     3,        4]
           
 
 for color in colors:  
@@ -14,7 +15,8 @@ for i in range(len(colors)):
 
 
 #TODO: Create a list of 4 names.
-#TODO: Using a for loop, print out each name with " is awesome!" added after each name.
+#TODO: Using a for loop, print out each name with " is 
+# awesome!" added after each name.
 
 
 #TODO: create a list of five integers
@@ -22,8 +24,9 @@ for i in range(len(colors)):
 
 
 #TODO: After calulcating the sum, calculate the average.
-# To calculate average, we take the sum divided by the number of elements in the list called numbers
+# To calculate average, we take the sum divided by the 
+# number of elements in the list called numbers
 
 
-# Redo these with range()
+# Redo these with range() 
 

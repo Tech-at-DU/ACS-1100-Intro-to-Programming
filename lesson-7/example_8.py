@@ -1,4 +1,6 @@
-'''TODO: Prompt the user for their name. Then using while loops and conditional statements, sing them happy birthday. Your code should print the following:
+'''TODO: Prompt the user for their name. Then using while 
+loops and conditional statements, sing them happy 
+birthday. Your code should print the following:
 
 Happy Birthday to you!
 Happy Birthday to you!
