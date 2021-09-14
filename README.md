@@ -20,7 +20,7 @@ The world of software development is vast. As introduction this class does not c
 | 4     | Sep,  2 | [Errors] | [Python CLI Games] |
 | 5     | Sep,  7 | [Conditionals] - [Pseudo Code] | Pseudo Code problems on Gradescope |
 | 6     | Sep,  9 | [Lists] | - |
-| 7     | Sep, 14 | [Loops] | [snowman.py](lesson-7/snowman.md) |
+| 7     | Sep, 14 | [Loops] | [Captain Rainbow's Color Checklist] |
 | 8     | Sep, 16 | [Debugging] | - |
 | 9     | Sep, 21 | [File I/O] | - |
 | 10    | Sep, 23 | [Dictionaries] | - |
@@ -32,6 +32,7 @@ The world of software development is vast. As introduction this class does not c
 <!-- Assignments -->
 [Setup GitHub]: setup-github.md
 [Python CLI Games]: https://github.com/Tech-at-DU/Python-CLI-Games-Tutorial
+[Captain Rainbow's Color Checklist]: https://makeschool.org/mediabook/oa/tutorials/captain-rainbow-s-color-checklist/installation/
 
 <!-- Lessons -->
 [Intro]: https://docs.google.com/presentation/d/1xLM4fzLBnVEkX3qmBH6L04q4PMbchVrA3P5LSOFHgR4/edit?usp=sharing
