@@ -22,7 +22,7 @@ The world of software development is vast. As introduction this class does not c
 | 6     | Sep,  9 | [Lists] | - |
 | 7     | Sep, 14 | [Loops] | [Captain Rainbow's Color Checklist] |
 | 8     | Sep, 16 | [Debugging] | - |
-| 9     | Sep, 21 | [File I/O] | - |
+| 9     | Sep, 21 | [File I/O] | [Spaceman](projects/spaceman.py) |
 | 10    | Sep, 23 | [Dictionaries] | - |
 | 11    | Sep, 28 | [Code Quality] | - |
 | 12    | Sep, 30 | [Problem Solving] | - |
