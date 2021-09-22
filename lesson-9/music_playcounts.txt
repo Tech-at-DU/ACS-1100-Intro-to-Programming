@@ -1,0 +1,4 @@
+Rockstar, 10
+Popstar, 20
+Blinding Lights, 15
+Do It, 4
