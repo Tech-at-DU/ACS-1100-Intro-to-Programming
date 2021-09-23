@@ -18,4 +18,3 @@ dict_name = {key:value, key:value, key:value}
 flavors = ["chicken", "beef", "cheese", "guava"]
 prices = [1.99, 1.99, 1.00, 2.50]
 
-menu = {"chicken":1.99, "beef":1.99, "cheese":1.00, "guava":2.50}
