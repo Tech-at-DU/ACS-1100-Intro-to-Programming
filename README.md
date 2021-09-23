@@ -26,7 +26,7 @@ The world of software development is vast. As introduction this class does not c
 | 10    | Sep, 23 | [Dictionaries] | - |
 | 11    | Sep, 28 | [Code Quality] | - |
 | 12    | Sep, 30 | [Problem Solving] | - |
-| 13    | Oct,  5 | [Dictionaries] | - |
+| 13    | Oct,  5 | TBA | - |
 | 14    | Oct,  7 | Final Assessment | - |
 
 <!-- Assignments -->
