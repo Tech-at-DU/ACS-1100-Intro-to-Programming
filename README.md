@@ -6,28 +6,25 @@ The world of software development is vast. As introduction this class does not c
 
 ## Schedule 
 
-**Course dates:** Tuesday, August 24 - Thursday, October 7, 2021
-
-**Class Times:** Tuesday, Thursday at 9:30 AM PST - 12:15 PM PST
-
-[Track] CS 1.0 - Introduction to Programming 
+**Course dates:** Wednesday, August 17 - Wednesday, October 5, 2022<br>
+**Class Times:** Monday, Wednesday at 1:30 PM PST - 3:45 PM PST
 
 | Class | Date    | Topic | Homework |
 |:-----:|:-------:|:------|:---------|
-| 1     | Aug, 24 | [Intro] - [Variables]  | - |
-| 2     | Aug, 26 | [Print] - [Data Types] - [Input] | madlib.py - custom-calc.py |
-| 3     | Aug, 31 | [Functions] | [Setup GitHub] |
-| 4     | Sep,  2 | [Errors] | [Python CLI Games] |
-| 5     | Sep,  7 | [Conditionals] - [Pseudo Code] | Pseudo Code problems on Gradescope |
-| 6     | Sep,  9 | [Lists] | - |
+| 1     | Aug, 17 | [Intro] - [Variables]  | - |
+| 2     | Aug, 22 | [Data Types] - [Print] - [Input] | madlib.py - custom-calc.py |
+| 3     | Aug, 24 | [Functions] | [Setup GitHub] |
+| -     | Aug, 29 |  [Errors] | [Python CLI Games] |
+| 4     | Sep, 5 | NO CLASS: LABOR DAY | |
+| 5     | Sep, 7 | [Conditionals] - [Pseudo Code] | Pseudo Code problems on Gradescope |
+| 6     | Sep,  12 | [Lists] | - |
 | 7     | Sep, 14 | [Loops] | [Captain Rainbow's Color Checklist] |
-| 8     | Sep, 16 | [Debugging] | - |
+| 8     | Sep, 19 | [Debugging] | - |
 | 9     | Sep, 21 | [File I/O] | [Spaceman](projects/spaceman.md) |
-| 10    | Sep, 23 | [Dictionaries] | - |
+| 10    | Sep, 26 | [Dictionaries] | - |
 | 11    | Sep, 28 | [Code Quality] | - |
-| 12    | Sep, 30 | [Problem Solving] | - |
-| 13    | Oct,  5 | TBA | - |
-| 14    | Oct,  7 | Final Assessment | - |
+| 12    | Oct, 3 | [Problem Solving] | - |
+| 13    | Oct,  5 | Final Assessment | - |
 
 <!-- Assignments -->
 [Setup GitHub]: setup-github.md
