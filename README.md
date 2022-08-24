@@ -12,11 +12,11 @@ The world of software development is vast. As introduction this class does not c
 | Class | Date    | Topic | Homework |
 |:-----:|:-------:|:------|:---------|
 | 1     | Aug, 17 | [Intro] - [Variables]  | - |
-| 2     | Aug, 22 | [Data Types] - [Print] - [Input] | 
-| 3     | Aug, 24 | [Functions] | `madlib.py` & `custom-calc.py` |
+| 2     | Aug, 22 | [Data Types] - [Print] | - |
+| 3     | Aug, 24 | [Input] - [Functions] | `madlib.py` & `custom-calc.py` |
 | 4     | Aug, 29 |  [Errors] | [Setup GitHub] |
 | -     | Sep, 5 | NO CLASS: LABOR DAY | [Python CLI Games] |
-| 5     | Sep, 7 | [Conditionals] - [Pseudo Code] | Pseudo Code problems on Gradescope |
+| 5     | Sep, 7 | [Conditionals] - [Pseudocode] | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
 | 6     | Sep,  12 | [Lists] | - |
 | 7     | Sep, 14 | [Loops] | [Captain Rainbow's Color Checklist] |
 | 8     | Sep, 19 | [Debugging] | - |
@@ -40,7 +40,7 @@ The world of software development is vast. As introduction this class does not c
 [Functions]: https://docs.google.com/presentation/d/1nb2dO0Z5dXTSsXWxt04zq_zNeDglUX6-sWqUfLssuLY/edit?usp=sharing
 [Errors]: https://docs.google.com/presentation/d/1I-UvQY6r0Df_NTCzl99w1Vfyo3_lc1smBB5C5OCdsnk/edit?usp=sharing
 [Conditionals]: https://docs.google.com/presentation/d/175B_bEx0G0gwuSd9qKrkrB3947pvdI389ZLQAUDnWS8/edit?usp=sharing
-[Pseudo Code]: https://docs.google.com/presentation/d/18s5VuAVLBihPR-YvGg9P0i-b60FdYLHfhYpiM-4prdA/edit?usp=sharing
+[Pseudocode]: https://docs.google.com/presentation/d/18s5VuAVLBihPR-YvGg9P0i-b60FdYLHfhYpiM-4prdA/edit?usp=sharing
 [Lists]: https://docs.google.com/presentation/d/1lgSOEyUEraGRTH75tWLHiP0uB58cwD0TwYlqU4Ykw60/edit?usp=sharing
 [Loops]: https://docs.google.com/presentation/d/144HYuVqgF9yR9CCaFySOn2v9Qer3A1pjLfTOYXi2AU8/edit?usp=sharing
 [Debugging]: https://docs.google.com/presentation/d/1WC4x4WrGR_TOOARcRkoH5LdTmktDoN29ObSUC4Z2txc/edit?usp=sharing
