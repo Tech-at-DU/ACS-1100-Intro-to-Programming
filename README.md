@@ -14,8 +14,8 @@ The world of software development is vast. As introduction this class does not c
 | 1     | Aug, 17 | [Intro] - [Variables]  | - |
 | 2     | Aug, 22 | [Data Types] - [Print] | - |
 | 3     | Aug, 24 | [Input] - [Functions] | `madlib.py` & `custom-calc.py` |
-| 4     | Aug, 29 |  [Errors] | [Setup GitHub] |
-| -     | Sep, 5 | NO CLASS: LABOR DAY | [Python CLI Games] |
+| 4     | Aug, 29 |  [Errors] | [Python CLI Games] |
+| -     | Sep, 5 | NO CLASS: LABOR DAY | [Setup GitHub] |
 | 5     | Sep, 7 | [Conditionals] - [Pseudocode] | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
 | 6     | Sep,  12 | [Lists] | - |
 | 7     | Sep, 14 | [Loops] | [Captain Rainbow's Color Checklist] |
