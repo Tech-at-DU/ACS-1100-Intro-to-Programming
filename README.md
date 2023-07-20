@@ -11,21 +11,21 @@ The world of software development is vast. As introduction this class does not c
 
 | Class | Date    | Topic | Homework |
 |:-----:|:-------:|:------|:---------|
-| 1     | Aug, 17 | [Intro] - [Variables]  | - |
-| 2     | Aug, 22 | [Data Types] - [Print] | - |
-| 3     | Aug, 24 | [Input] - [Functions] | `madlib.py` & `custom-calc.py` |
-| 4     | Aug, 29 |  [Errors] | [Python CLI Games] |
-| 5     | Aug, 31 |  [Conditionals] | [Setup GitHub]  |
-| -     | Sep, 5 | NO CLASS: LABOR DAY | |
-| 6     | Sep, 7 | [Pseudocode] | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
-| 7     | Sep,  12 | [Lists] | - |
-| 8     | Sep, 14 | [Loops] | [Captain Rainbow's Color Checklist] |
-| 9     | Sep, 19 | [Debugging] | - |
-| 10     | Sep, 21 | [File I/O] | [Spaceman](projects/spaceman.md) |
-| 11    | Sep, 26 | [Dictionaries] | - |
-| 12    | Sep, 28 | [Code Quality] | - |
-| 13    | Oct, 3 | [Problem Solving] | - |
-| 14    | Oct,  5 | Final Assessment | - |
+| 1     | Aug, 16 | [Intro] - [Variables]  | - |
+| 2     | Aug, 21 | [Data Types] - [Print] | - |
+| 3     | Aug, 23 | [Input] - [Functions] | `madlib.py` & `custom-calc.py` |
+| 4     | Aug, 28 |  [Errors] | [Python CLI Games] |
+| 5     | Aug, 30 |  [Conditionals] | [Setup GitHub]  |
+| -     | Sep,  4 | NO CLASS: LABOR DAY | |
+| 6     | Sep,  6 | [Pseudocode] | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
+| 7     | Sep, 11 | [Lists] | - |
+| 8     | Sep, 13 | [Loops] | [Captain Rainbow's Color Checklist] |
+| 9     | Sep, 18 | [Debugging] | - |
+| 10    | Sep, 20 | [File I/O] | [Spaceman](projects/spaceman.md) |
+| 11    | Sep, 25 | [Dictionaries] | - |
+| 12    | Sep, 27 | [Code Quality] | - |
+| 13    | Oct,  2 | [Problem Solving] | - |
+| 14    | Oct,  4 | Final Assessment | - |
 
 <!-- Assignments -->
 [Setup GitHub]: setup-github.md
