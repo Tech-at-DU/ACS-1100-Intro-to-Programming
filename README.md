@@ -14,18 +14,18 @@ The world of software development is vast. As introduction this class does not c
 | 1     | Aug, 16 | [Intro] - [Variables]  | - |
 | 2     | Aug, 21 | [Data Types] - [Print] | - |
 | 3     | Aug, 23 | [Input] - [Functions] | `madlib.py` & `custom-calc.py` |
-| 4     | Aug, 28 |  [Errors] | [Python CLI Games] |
-| 5     | Aug, 30 |  [Conditionals] | [Setup GitHub]  |
+| 4     | Aug, 28 | [Errors]          | [Python CLI Games] |
+| 5     | Aug, 30 | [Conditionals]    | [Setup GitHub]  |
 | -     | Sep,  4 | NO CLASS: LABOR DAY | |
-| 6     | Sep,  6 | [Pseudocode] | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
-| 7     | Sep, 11 | [Lists] | - |
-| 8     | Sep, 13 | [Loops] | [Captain Rainbow's Color Checklist] |
-| 9     | Sep, 18 | [Debugging] | - |
-| 10    | Sep, 20 | [File I/O] | [Spaceman](projects/spaceman.md) |
-| 11    | Sep, 25 | [Dictionaries] | - |
-| 12    | Sep, 27 | [Code Quality] | - |
+| 6     | Sep,  6 | [Pseudocode]      | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
+| 7     | Sep, 11 | [Lists]           | - |
+| 8     | Sep, 13 | [Loops]           | [Captain Rainbow's Color Checklist] |
+| 9     | Sep, 18 | [Debugging]       | - |
+| 10    | Sep, 20 | [File I/O]        | [Spaceman](projects/spaceman.md) |
+| 11    | Sep, 25 | [Dictionaries]    | - |
+| 12    | Sep, 27 | [Code Quality]    | - |
 | 13    | Oct,  2 | [Problem Solving] | - |
-| 14    | Oct,  4 | Final Assessment | - |
+| 14    | Oct,  4 | Final Assessment  | - |
 
 <!-- Assignments -->
 [Setup GitHub]: setup-github.md
