@@ -12,7 +12,7 @@ The world of software development is vast. As introduction this class does not c
 | Class | Date    | Topic | Homework |
 |:-----:|:-------:|:------|:---------|
 | 1     | Aug, 16 | [Intro] - [Variables]  | - |
-| 2     | Aug, 21 | [Data Types] - [Print] | - |
+| 2     | Aug, 21 | [Print] - [Data Types] | - |
 | 3     | Aug, 23 | [Input] - [Functions] | `madlib.py` & `custom-calc.py` |
 | 4     | Aug, 28 | [Errors]          | [Python CLI Games] |
 | 5     | Aug, 30 | [Conditionals]    | [Setup GitHub]  |
