@@ -5,6 +5,8 @@
 
 # what will we see when we print result?
 # print(result)
+# Check the type of the result
+# print(type(result))
 
 # What data type is result? 
 
