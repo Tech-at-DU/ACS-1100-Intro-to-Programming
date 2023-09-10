@@ -30,7 +30,7 @@ The world of software development is vast. As introduction this class does not c
 <!-- Assignments -->
 [Setup GitHub]: setup-github.md
 [Python CLI Games]: https://github.com/Tech-at-DU/Python-CLI-Games-Tutorial
-[Captain Rainbow's Color Checklist]: https://makeschool.org/mediabook/oa/tutorials/captain-rainbow-s-color-checklist/installation/
+[Captain Rainbow's Color Checklist]: https://github.com/Tech-at-DU/Rainbow-Checklist/tree/master
 
 <!-- Lessons -->
 [Intro]: https://docs.google.com/presentation/d/1xLM4fzLBnVEkX3qmBH6L04q4PMbchVrA3P5LSOFHgR4/edit?usp=sharing
