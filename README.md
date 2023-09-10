@@ -18,8 +18,8 @@ The world of software development is vast. As introduction this class does not c
 | 5     | Aug, 30 | [Conditionals]    | [Setup GitHub]  |
 | -     | Sep,  4 | NO CLASS: LABOR DAY | |
 | 6     | Sep,  6 | [Pseudocode]      | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
-| 7     | Sep, 11 | [Lists]           | - |
-| 8     | Sep, 13 | [Loops]           | [Captain Rainbow's Color Checklist] |
+| 7     | Sep, 11 | [Lists]           | [Captain Rainbow's Color Checklist] |
+| 8     | Sep, 13 | [Loops]           | - |
 | 9     | Sep, 18 | [Debugging]       | - |
 | 10    | Sep, 20 | [File I/O]        | [Spaceman](projects/spaceman.md) |
 | 11    | Sep, 25 | [Dictionaries]    | - |
