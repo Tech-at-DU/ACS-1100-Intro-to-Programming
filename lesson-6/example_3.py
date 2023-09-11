@@ -36,7 +36,7 @@ cat_names = []
 
 
 # TODO: These Cats are ruining your furniture
-# Give one away. Use cat_list.remove() to 
+# Give one away. Use cat_names.remove() to 
 # remove "Eunice"
 
 
