@@ -31,7 +31,7 @@ cat_names = []
 
 
 # TODO: You just found another cat named "Duff"
-# Put Duff in the cat_list in alphabetical order 
+# Put Duff in the cat_names in alphabetical order 
 # use cat_names.insert()
 
 
@@ -42,10 +42,10 @@ cat_names = []
 
 # TODO: I think "Alfie" has to go he keeps 
 # horking up fur balls! he should be first in 
-# the list you can use: cat_list.pop()
+# the list you can use: cat_names.pop()
 
 
 # TODO: Actually you've had a revelation and 
 # decided you're a dog person after all. Clear
-# the cat_list with cat_list.clear()
+# the cat_list with cat_names.clear()
 
