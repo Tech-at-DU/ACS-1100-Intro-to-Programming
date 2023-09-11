@@ -27,7 +27,7 @@ cat_names = []
 # TODO: You found a cat walking home yesterday
 # It's name is "Alfie". You always keep your 
 # cats organized in alphabetical, you're
-# obsessed remember? Use cat_names.prepend()
+# obsessed remember? Use cat_names.insert(0, 'CatName')
 
 
 # TODO: You just found another cat named "Duff"
