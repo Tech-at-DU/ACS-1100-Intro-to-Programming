@@ -32,7 +32,7 @@ cat_names = []
 
 # TODO: You just found another cat named "Duff"
 # Put Duff in the cat_list in alphabetical order 
-# use cat_list.insert()
+# use cat_names.insert()
 
 
 # TODO: These Cats are ruining your furniture
