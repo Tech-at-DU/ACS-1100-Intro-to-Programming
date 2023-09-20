@@ -29,7 +29,7 @@ teams = [
 ]
 
 # outfile.write('Philadephia Eagles')
-outfile.writelines(team)
+outfile.writelines(teams)
   
 # Note that all of the lines are not one new lines. 
 
