@@ -79,3 +79,9 @@ This function takes the user name, password, and amount. It should find the user
 ### Transfer 
 
 The transfer function takes a username, password, amount, and a second username. It should search for a user name, verify the password, subtract the amount from the first user's balance. If the amount is greater than the balance it should display an error. Otherwise, it finds the second user name in the list and adds the amount to their balance. 
+
+### Create an account
+
+Add an option to create a new user account. Prompt for user name, then password. Check that the user name doesn't already exitst, user names need to be unique. After prompt for the first and last name. 
+
+Update the data array and save the new name and password to the data.txt file. 
