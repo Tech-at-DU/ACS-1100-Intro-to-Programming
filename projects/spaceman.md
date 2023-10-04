@@ -68,7 +68,13 @@ From the day this project is assigned, you will have 1 week to complete this pro
 
 ### Rubric
 
-Read the [Spaceman project rubric](#rubric) before finishing the project to ensure it meets all expectations.
+Read the before finishing the project to ensure it meets all expectations.
+
+| -  | -  | -  | -  |
+|:---|:---|:---|:---| 
+| Code quality | Code is sloppy and lacks comments | functions include doc strings | Code is well documented and includes comments beyond doc strings and uses consistent formatting that follows pythonic style conventions |
+| Functionality | Doesn't function | The code allows us to play the game | The game displays the ascii art for the spaceman, the letters guessed, and the word with guessed letters in the correct locations |
+| Stretch goals | You did not try the stretch goals | You tried to solve at least one of the stretch challenges | You solved one or more of the stretch challenges |
 
 ### Submission
 
