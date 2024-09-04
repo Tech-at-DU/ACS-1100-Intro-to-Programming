@@ -6,26 +6,27 @@ The world of software development is vast. As introduction this class does not c
 
 ## Schedule 
 
+<!-- 
 **Course Dates:** Wednesday, August 17 - Wednesday, October 5, 2022<br>
 **Class Times:** Monday, Wednesday at 1:30 PM PST - 3:45 PM PST
+-->
 
-| Class | Date    | Topic | Homework |
-|:-----:|:-------:|:------|:---------|
-| 1     | Aug, 16 | [Intro] - [Variables]  | - |
-| 2     | Aug, 21 | [Data Types] - [Print] | - |
-| 3     | Aug, 23 | [Input] - [Functions] | `madlib.py` & `custom-calc.py` in the lesson 2 folder |
-| 4     | Aug, 28 | [Errors]          | [Python CLI Games] |
-| 5     | Aug, 30 | [Conditionals]    | [Setup GitHub]  |
-| -     | Sep,  4 | NO CLASS: LABOR DAY | |
-| 6     | Sep,  6 | [Pseudocode]      | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
-| 7     | Sep, 11 | [Lists]           | [Captain Rainbow's Color Checklist] |
-| 8     | Sep, 13 | [Loops]           | - |
-| 9     | Sep, 18 | [Debugging]       | - |
-| 10    | Sep, 20 | [File I/O]        | [Spaceman](projects/spaceman.md) |
-| 11    | Sep, 25 | [Dictionaries]    | - |
-| 12    | Sep, 27 | [Code Quality]    | - |
-| 13    | Oct,  2 | [Problem Solving] | - |
-| 14    | Oct,  4 | Final Assessment  | - |
+| Class | Topic | Homework |
+|:-----:|:------|:---------|
+| 1     | [Intro] - [Variables]  | - |
+| 2     | [Data Types] - [Print] | - |
+| 3     | [Input] - [Functions] | `madlib.py` & `custom-calc.py` in the lesson 2 folder |
+| 4     | [Errors]          | [Python CLI Games] |
+| 5     | [Conditionals]    | [Setup GitHub]  |
+| 6     | [Pseudocode]      | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
+| 7     | [Lists]           | [Captain Rainbow's Color Checklist] |
+| 8     | [Loops]           | - |
+| 9     |  [Debugging]       | - |
+| 10    | [File I/O]        | [Spaceman](projects/spaceman.md) |
+| 11    | [Dictionaries]    | - |
+| 12    | [Code Quality]    | - |
+| 13    | [Problem Solving] | - |
+| 14    | Final Assessment  | - |
 
 <!-- Assignments -->
 [Setup GitHub]: setup-github.md
