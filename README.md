@@ -18,15 +18,14 @@ The world of software development is vast. As introduction this class does not c
 | 3     | [Input] - [Functions] | `madlib.py` & `custom-calc.py` in the lesson 2 folder |
 | 4     | [Errors]          | [Python CLI Games] |
 | 5     | [Conditionals]    | [Setup GitHub]  |
-| 6     | [Pseudocode]      | Pseudocode Worksheet <small><i>(link soon!)</i></small> |
-| 7     | [Lists]           | [Captain Rainbow's Color Checklist] |
-| 8     | [Loops]           | - |
-| 9     |  [Debugging]       | - |
-| 10    | [File I/O]        | [Spaceman](projects/spaceman.md) |
-| 11    | [Dictionaries]    | - |
-| 12    | [Code Quality]    | - |
-| 13    | [Problem Solving] | - |
-| 14    | Final Assessment  | - |
+| 6     | [Lists]           | [Captain Rainbow's Color Checklist] |
+| 7     | [Loops]           | - |
+| 8     |  [Debugging]       | - |
+| 9    | [File I/O]        | [Spaceman](projects/spaceman.md) |
+| 10    | [Dictionaries]    | - |
+| 11    | [Code Quality]    | - |
+| 12    | [Problem Solving] | - |
+| 13 | Final Assessment  | - |
 
 <!-- Assignments -->
 [Setup GitHub]: setup-github.md
