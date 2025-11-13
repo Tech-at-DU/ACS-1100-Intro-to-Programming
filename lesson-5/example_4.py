@@ -4,7 +4,7 @@
 player_1_score = 1000
 player_2_score = 1050
 
-if player_1_score > player_1_score: 
+if player_1_score > player_2_score: 
   print("Player 1 is the winner!")
 else:
   print("Player 2 is the winner!")
