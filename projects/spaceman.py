@@ -1,6 +1,6 @@
 import random
 
-def load_word():
+def load_word(path="words.txt"):
     '''
     A function that reads a text file of words and randomly selects one to use as the secret word
         from the list.
@@ -8,11 +8,12 @@ def load_word():
     Returns: 
            string: The secret word to be used in the spaceman guessing game
     '''
-    f = open('words.txt', 'r')
-    words_list = f.readlines()
-    f.close()
-    
-    words_list = words_list[0].split(' ') #comment this line out if you use a words.txt file with each word on a new line
+    # `with` closes the file for you when the block ends—even if an error happens.
+    with open(path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Support either space-separated words on one line OR one word per line.
+    words_list = content.split()
     secret_word = random.choice(words_list)
     return secret_word
 
@@ -66,6 +67,7 @@ def is_guess_in_word(guess, secret_word):
 
 
 
+
 def spaceman(secret_word):
     '''
     A function that controls the game of spaceman. Will start spaceman in the command line.
@@ -91,6 +93,7 @@ def spaceman(secret_word):
 
 
 
-#These function calls that will start the game
-secret_word = load_word()
-spaceman(secret_word)
+# Only start the game when this file is run directly (not when imported).
+if __name__ == "__main__":
+    secret_word = load_word()
+    spaceman(secret_word)

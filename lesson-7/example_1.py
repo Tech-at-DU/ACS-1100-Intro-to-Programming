@@ -1,7 +1,7 @@
 '''
-Example 1: This while loop prints a counter from 0  to 99:
+Example 1: This while loop prints a counter from 1 to 99:
 '''
-# Initialized counter to 0 
+# Initialized counter to 1 
 counter = 1
 
 # while loop executed if counter < 100
@@ -14,7 +14,7 @@ while counter < 100:
   counter += 1
 
 
-# What should I change the conditional statement to to include 100?
+# To include 100, change the condition to `counter <= 100` (or `counter < 101`).
 
 '''
 Example 2: This code reapeatedly prompts the user to enter 
@@ -31,5 +31,4 @@ while response > 20 or response < 1:
   response = int(input("Enter a number between 1 and 20: "))
 
 print(f"Great you entered: {response}")
-
 

@@ -16,9 +16,9 @@ def foo(x):
 
 # Function 2
 
-def two_e(str):
+def two_e(text):
 	count = 0
-	for char in str:
+	for char in text:
 		if char == 'e':
 			count += 1
 	
@@ -26,5 +26,4 @@ def two_e(str):
 		return True
 	else: 
 		return False
-
 
