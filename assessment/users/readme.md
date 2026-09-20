@@ -4,6 +4,9 @@ Everyone is complaining about how complicated online banking is. We've made a ne
 
 Data.txt has a list of users, their user names, and passwords. You need to write three functions. Each of your functions should take at least one parameter and return something. 
 
+> **Security note:** Real systems never store passwords in plaintext — this file is for learning only.
+
+
 The goal is to read the file `data.txt` and build a list of users. Each line of this file has a user. This line has the username, password, full name, and balance. 
 
 ```
@@ -16,7 +19,7 @@ You can split this line on the `,` to get a list with each item.
 "aman,1234,Andy Allman,1000".split(',') # ["aman","1234","Andy Allman","1000\n"]
 ```
 
-Notice string `split()` takes a delimeter (comma in this case ",") and splits the string on this character returning an array of substrings. From here you can access each element using the list syntax: 
+Notice string `split()` takes a delimiter (comma in this case ",") and splits the string on this character returning a list of substrings. From here you can access each element using the list syntax: 
 
 ```python
 test = "aman,1234,Andy Allman,1000".split(',')
@@ -57,7 +60,7 @@ Your program should load the data follow the descriptions above.
 You should write at least three functions. At least one function should take one or more parameters and return a value. Some suggestions: 
 
 - Write a function to load data. Parameter: file name, returns a list of users.
-- Write a function to display the user information. Parameters: one or more strings, or an array and return a formatted string. 
+- Write a function to display the user information. Parameters: one or more strings, or a list and return a formatted string. 
 - Write a login function that takes username and password as parameters and returns a user dictionary. 
 
 ## Stretch Goals
@@ -72,7 +75,7 @@ The accrue interest function takes an interest rate as a parameter. When called 
 
 Write a deposit function. This function should take the user name, password, and amount. It should search the list of users for the username and verify the password. If it finds a user it should add the amount to that user's account balance. 
 
-### Withdrawl function
+### Withdrawal function
 
 This function takes the user name, password, and amount. It should find the user name, verify the password and attempt to subtract the amount from the user's balance. If the amount is greater than the balance it should print an error. Otherwise, the amount is subtracted and the new balance is printed. 
 
@@ -82,6 +85,6 @@ The transfer function takes a username, password, amount, and a second username.
 
 ### Create an account
 
-Add an option to create a new user account. Prompt for user name, then password. Check that the user name doesn't already exitst, user names need to be unique. After prompt for the first and last name. 
+Add an option to create a new user account. Prompt for user name, then password. Check that the user name doesn't already exist, user names need to be unique. After prompt for the first and last name. 
 
-Update the data array and save the new name and password to the data.txt file. 
+Update the data list and save the new name and password to the data.txt file. 
