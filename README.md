@@ -6,11 +6,6 @@ The world of software development is vast. As introduction this class does not c
 
 ## Schedule 
 
-<!-- 
-**Course Dates:** Wednesday, August 17 - Wednesday, October 5, 2022<br>
-**Class Times:** Monday, Wednesday at 1:30 PM PST - 3:45 PM PST
--->
-
 | Class | Topic | Homework |
 |:-----:|:------|:---------|
 | 1     | [Intro] - [Variables]  | - |
@@ -41,7 +36,6 @@ The world of software development is vast. As introduction this class does not c
 [Functions]: https://docs.google.com/presentation/d/1nb2dO0Z5dXTSsXWxt04zq_zNeDglUX6-sWqUfLssuLY/edit?usp=sharing
 [Errors]: https://docs.google.com/presentation/d/1I-UvQY6r0Df_NTCzl99w1Vfyo3_lc1smBB5C5OCdsnk/edit?usp=sharing
 [Conditionals]: https://docs.google.com/presentation/d/175B_bEx0G0gwuSd9qKrkrB3947pvdI389ZLQAUDnWS8/edit?usp=sharing
-[Pseudocode]: https://docs.google.com/presentation/d/18s5VuAVLBihPR-YvGg9P0i-b60FdYLHfhYpiM-4prdA/edit?usp=sharing
 [Lists]: https://docs.google.com/presentation/d/1lgSOEyUEraGRTH75tWLHiP0uB58cwD0TwYlqU4Ykw60/edit?usp=sharing
 [Loops]: https://docs.google.com/presentation/d/144HYuVqgF9yR9CCaFySOn2v9Qer3A1pjLfTOYXi2AU8/edit?usp=sharing
 [Debugging]: https://docs.google.com/presentation/d/1WC4x4WrGR_TOOARcRkoH5LdTmktDoN29ObSUC4Z2txc/edit?usp=sharing
@@ -49,7 +43,5 @@ The world of software development is vast. As introduction this class does not c
 [Dictionaries]: https://docs.google.com/presentation/d/1tABqX5wnQd7zeV9Nmtkh0Eh_IIqqz2FPJDtQTDcfWyM/edit?usp=sharing
 [Code Quality]: https://docs.google.com/presentation/d/1ZiGSatm5JcYz9hbeCuqGJndNoyVRbid_3ey7u-bySrQ/edit?usp=sharing
 [Problem Solving]: https://docs.google.com/presentation/d/1QpJ4H0m8k6D4uV-O6KSYmIJUbc9MlFkYxbqG9oAOW90/edit?usp=sharing
-
-
 
 
