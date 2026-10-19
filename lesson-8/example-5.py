@@ -9,7 +9,7 @@ and returns the lines of the file as a list
 
 # STEP 1: Store the name of the file
 # TODO: define a variable filename and store the name 
-# of the file cand.txt. Ask yourself what the path 
+# of the file candy.txt. Ask yourself what the path 
 # should be? 
 
 

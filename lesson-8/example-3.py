@@ -25,7 +25,7 @@ print(file_length)
 
 # print(lines[320])
 
-# TODO: Go to language.txt to check if correct.
+# TODO: Go to languages.txt to check if correct.
 
 
 # TODO: Print lines 184 to 190
